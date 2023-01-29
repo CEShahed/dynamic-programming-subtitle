@@ -1,2 +1,10 @@
-# dynamic-programming-subtitle
-subtitle for introduction to dynamic programming - from youtube
+# زیرنویس ویدئوی برنامه نویسی پویا
+
+* [ لینک ویدئو در یوتیوب](https://youtu.be/oifN-YVlrq8)
+* [ لینک ویدئو در آپارات](https://youtu.be/oifN-YVlrq8)
+
+## تهیه کنندگان
+
+- ریحانه داورپناه
+- سارا کاظم زاده
+- علی بقائی راوری
